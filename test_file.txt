@@ -1,1 +1,2 @@
 To jest pierwsza edycja tego pliku
+zmiana w branchu
